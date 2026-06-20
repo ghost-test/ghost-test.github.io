@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ghost-test.github.io/sitemap.xml
